@@ -1,5 +1,5 @@
 {
-	"name": "silver_vacunacion_consolidada",
+	"name": "silver_vacunaciones_consolidadas",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "dw_vacunas",
